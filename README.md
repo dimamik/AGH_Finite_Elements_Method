@@ -1,2 +1,9 @@
-# AGH_Finite_Elements_Method
-End Project on Differential Equations AGH
+toReturn.R contains full script which is also in Report.Rnw
+
+Report.pdf contains all description of used methods, and recollects theory on FEM
+
+-------------------------------------------------------
+
+
+Author:
+Dzmitry Mikialevich

@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Zadanie}{2}{section.1}%
+\contentsline {section}{\numberline {2}Rozwiazanie}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Sformulowanie Warjacyjne}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Metoda Galerkina}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Czesc numeryczna}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Inicjalizacja projektu i stalych}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Definicja Wektoru Bazowego:}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Badanie wykresu \(e_i\) Na przykladzie \(n=4\)}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Definicja pochodnej Wektoru Bazowego:}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Definicja \(E(x)\)}{5}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Definicja \(B(e_i,e_j)\)}{5}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Definicja \(L(e_i)\)}{5}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Budowanie macierzy B i L}{5}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Rysowanie wyniku w postaci punktowej}{6}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Zbieranie wszystkiego w jedna funkcje}{6}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Sprawdzenie dzialania}{7}{subsection.3.11}%
+\contentsline {section}{\numberline {4}Budowanie modelu dla badania rownania prosej}{7}{section.4}%
+\contentsline {section}{\numberline {5}Postac Rownania}{9}{section.5}%
